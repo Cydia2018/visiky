@@ -4,19 +4,25 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736929286@qq.com",
-    "mobile": "15625057119",
-    "github": "https://github.com/visiky",
+    "name": "刘相呈",
+    "email": "liuxiangcheng@stu.pku.edu.cn",
+    "mobile": "13126536367",
+    "github": "https://github.com/Cydia2018",
     "zhihu": "https://www.zhihu.com/people/visiky",
     "workExpYear": ""
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
+      "edu_time": ["2016.09.01", "2020.07.01"],
       "school": "华南理工大学",
-      "major": "网络工程",
+      "major": "信息工程",
       "academic_degree": "本科"
+    },
+    {
+      "edu_time": ["2020.09.01", "2023.07.01"],
+      "school": "北京大学（推免）",
+      "major": "电子信息",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
